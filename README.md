@@ -1,2 +1,2 @@
 # HFR-Download
-Code and samples for downloading HFR data
+Three scripts are provided in this link for downloading the .nc files. Download and run the MATLAB and python files so as to download the HFR .nc files over any given time period. Multiple hourly .nc files can be downloaded using either of the two scripts. In addition to the .nc file download, the MATLAB script further extracts data for each time moment over a specified spatial area, deletes each .nc file after the data extraction and converts the entire extracted dataset to a  .mat file. The MATLAB script runs on MATLAB version 2018b and newer. The commands provided on the .txt are run on the terminal.    
